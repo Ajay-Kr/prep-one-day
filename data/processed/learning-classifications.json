@@ -1,0 +1,914 @@
+[
+  {
+    "stableId": "tuf-dsa-17136",
+    "title": "Breaking The Myth",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/breaking-the-myth-dsa-is-language-independent",
+    "videoUrl": "https://youtu.be/qbwJ1U6I-IU",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "Breaking The Myth"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains DSA concepts, patterns, and logic before syntax.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17132",
+    "title": "Programming and What Are Computers?",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/programming-and-computers",
+    "videoUrl": "https://youtu.be/y_tiNJXgA2U",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "Programming and What Are Computers?"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains programming and how computers execute instructions.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17133",
+    "title": "How to Think Like a Programmer",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/how-to-think-like-a-programmer",
+    "videoUrl": "https://youtu.be/iv7jtDODKrg",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "How to Think Like a Programmer"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: provides a guided workflow for thinking through programming problems.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17134",
+    "title": "Flowcharts and Pseudocode",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/flowcharts-and-pseudocode",
+    "videoUrl": "https://youtu.be/ynlGEO4bhiI",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "Flowcharts and Pseudocode"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains the purpose and principles of flowcharts and pseudocode.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17135",
+    "title": "Flowchart Problem-Solving",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/flowchart-problem-solving",
+    "videoUrl": "https://youtu.be/usbMw83zi4c",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "Flowchart Problem-Solving"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: provides a practical, step-by-step flowchart problem-solving process.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17137",
+    "title": "Dry Runs, Edge Cases and Debugging",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/dry-runs-edge-cases-and-debugging",
+    "videoUrl": "https://youtu.be/Chf3JhFO4nU",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "Dry Runs, Edge Cases and Debugging"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: provides a repeatable workflow for dry runs, debugging, and edge cases.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17138",
+    "title": "Programming Languages and Choosing a Path",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/programming-languages-and-choosing-a-path",
+    "videoUrl": "https://youtu.be/qY_PY3o-pd4",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Fundamentals of Programming",
+        "path": [
+          "Beginner Problems",
+          "Fundamentals of Programming",
+          "Programming Languages and Choosing a Path"
+        ],
+        "sourceCategory": "fundamentals-of-programming"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains programming language roles, features, and fundamentals.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-17083",
+    "title": "Learn C++",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Language Basics",
+        "path": [
+          "Beginner Problems",
+          "Language Basics",
+          "Learn C++"
+        ],
+        "sourceCategory": "language-basics"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the resource title and Language Basics placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "secondary_evidence"
+  },
+  {
+    "stableId": "tuf-dsa-17084",
+    "title": "Learn Java",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Language Basics",
+        "path": [
+          "Beginner Problems",
+          "Language Basics",
+          "Learn Java"
+        ],
+        "sourceCategory": "language-basics"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the resource title and Language Basics placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "unverified"
+  },
+  {
+    "stableId": "tuf-dsa-17085",
+    "title": "Learn Python",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Language Basics",
+        "path": [
+          "Beginner Problems",
+          "Language Basics",
+          "Learn Python"
+        ],
+        "sourceCategory": "language-basics"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the resource title and Language Basics placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "unverified"
+  },
+  {
+    "stableId": "tuf-dsa-1216",
+    "title": "Easy and Medium",
+    "articleUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Logic Building (Patterns)",
+        "path": [
+          "Beginner Problems",
+          "Logic Building (Patterns)",
+          "Easy and Medium"
+        ],
+        "sourceCategory": "logic-building-patterns"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the title and Logic Building placement; linked video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1205",
+    "title": "Hard",
+    "articleUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Logic Building (Patterns)",
+        "path": [
+          "Beginner Problems",
+          "Logic Building (Patterns)",
+          "Hard"
+        ],
+        "sourceCategory": "logic-building-patterns"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the title and Logic Building placement; linked video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1219",
+    "title": "Theory with examples",
+    "articleUrl": null,
+    "videoUrl": "https://youtu.be/FPu9Uld7W-E",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Time Complexity",
+        "path": [
+          "Beginner Problems",
+          "Time Complexity",
+          "Theory with examples"
+        ],
+        "sourceCategory": "time-complexity"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Provisional: classified from the title and Time Complexity placement; linked video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1218",
+    "title": "STL",
+    "articleUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=RRVYpIET_RU",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Standard Libraries & Collections",
+        "path": [
+          "Beginner Problems",
+          "Standard Libraries & Collections",
+          "STL"
+        ],
+        "sourceCategory": "standard-libraries-and-collections"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: linked video title indicates a guided introduction to using the C++ STL; video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1217",
+    "title": "Java Collections",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Standard Libraries & Collections",
+        "path": [
+          "Beginner Problems",
+          "Standard Libraries & Collections",
+          "Java Collections"
+        ],
+        "sourceCategory": "standard-libraries-and-collections"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the title and Standard Libraries placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "source_label_only"
+  },
+  {
+    "stableId": "tuf-dsa-1193",
+    "title": "Python Libraries Part 1",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Standard Libraries & Collections",
+        "path": [
+          "Beginner Problems",
+          "Standard Libraries & Collections",
+          "Python Libraries Part 1"
+        ],
+        "sourceCategory": "standard-libraries-and-collections"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the title and Standard Libraries placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "unverified"
+  },
+  {
+    "stableId": "tuf-dsa-1194",
+    "title": "Python Libraries Part 2",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Standard Libraries & Collections",
+        "path": [
+          "Beginner Problems",
+          "Standard Libraries & Collections",
+          "Python Libraries Part 2"
+        ],
+        "sourceCategory": "standard-libraries-and-collections"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the title and Standard Libraries placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "unverified"
+  },
+  {
+    "stableId": "tuf-dsa-1214",
+    "title": "Basic Maths",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Concept Basics",
+        "path": [
+          "Beginner Problems",
+          "Concept Basics",
+          "Basic Maths"
+        ],
+        "sourceCategory": "concept-basics"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Provisional: classified from the title and Concept Basics placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "unverified"
+  },
+  {
+    "stableId": "tuf-dsa-1213",
+    "title": "Basic Arrays",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/array-basics",
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Concept Basics",
+        "path": [
+          "Beginner Problems",
+          "Concept Basics",
+          "Basic Arrays"
+        ],
+        "sourceCategory": "concept-basics"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: establishes array structure, indexing, and fundamental operations.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1203",
+    "title": "Basic Hashing",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/hashing-data-structures",
+    "videoUrl": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Concept Basics",
+        "path": [
+          "Beginner Problems",
+          "Concept Basics",
+          "Basic Hashing"
+        ],
+        "sourceCategory": "concept-basics"
+      },
+      {
+        "module": "Hashing",
+        "topic": "Theory",
+        "path": [
+          "Hashing",
+          "Theory",
+          "Basic Hashing"
+        ],
+        "sourceCategory": "theory"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains hashing fundamentals, hash tables, maps, sets, and use cases.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1204",
+    "title": "Basic String",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/string-introduction-vowels-consonants-search-frequency-reverse-and-case-conversion",
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Concept Basics",
+        "path": [
+          "Beginner Problems",
+          "Concept Basics",
+          "Basic String"
+        ],
+        "sourceCategory": "concept-basics"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: teaches string traversal and common character-processing operations through examples.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1199",
+    "title": "Recursion Theory",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Basic Recursion",
+        "path": [
+          "Beginner Problems",
+          "Basic Recursion",
+          "Recursion Theory"
+        ],
+        "sourceCategory": "basic-recursion"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Provisional: classified from the title and Basic Recursion placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1198",
+    "title": "Recursion Concepts with Parameters",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Beginner Problems",
+        "topic": "Basic Recursion",
+        "path": [
+          "Beginner Problems",
+          "Basic Recursion",
+          "Recursion Concepts with Parameters"
+        ],
+        "sourceCategory": "basic-recursion"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "The lesson demonstrates parameterized recursion through worked coding examples. Classified as Tutorial based on the instructional implementation focus; approved by the user.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-2400",
+    "title": "Learn All Patterns of Subsequences (Theory)",
+    "articleUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7",
+    "placements": [
+      {
+        "module": "Recursion",
+        "topic": "Subsequence Pattern Problems",
+        "path": [
+          "Recursion",
+          "Subsequence Pattern Problems",
+          "Learn All Patterns of Subsequences (Theory)"
+        ],
+        "sourceCategory": "subsequence-pattern-problems"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Provisional: explicitly labelled Theory and placed under Subsequence Pattern Problems; video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "secondary_evidence"
+  },
+  {
+    "stableId": "tuf-dsa-1237",
+    "title": "Introduction to Singly LinkedList",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/singly-linked-list",
+    "videoUrl": "https://youtu.be/Nq7ok-OyEpg?si=9PR1o8OPRWil7fRA",
+    "placements": [
+      {
+        "module": "Linked-List",
+        "topic": "Fundamentals (Single LL)",
+        "path": [
+          "Linked-List",
+          "Fundamentals (Single LL)",
+          "Introduction to Singly LinkedList"
+        ],
+        "sourceCategory": "fundamentals-single-ll"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: covers singly linked-list structure and walks through basic operations.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1235",
+    "title": "Deletion in Linked List",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Linked-List",
+        "topic": "Fundamentals (Single LL)",
+        "path": [
+          "Linked-List",
+          "Fundamentals (Single LL)",
+          "Deletion in Linked List"
+        ],
+        "sourceCategory": "fundamentals-single-ll"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: operation-focused deletion resource; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "secondary_evidence"
+  },
+  {
+    "stableId": "tuf-dsa-1236",
+    "title": "Insertion in Linked List",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Linked-List",
+        "topic": "Fundamentals (Single LL)",
+        "path": [
+          "Linked-List",
+          "Fundamentals (Single LL)",
+          "Insertion in Linked List"
+        ],
+        "sourceCategory": "fundamentals-single-ll"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: operation-focused insertion resource; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "secondary_evidence"
+  },
+  {
+    "stableId": "tuf-dsa-1234",
+    "title": "Introduction to Doubly LL",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/doubly-linked-list",
+    "videoUrl": "https://youtu.be/0eKMU10uEDI?si=uDnoj_C5ghEpNLvP",
+    "placements": [
+      {
+        "module": "Linked-List",
+        "topic": "Fundamentals (Doubly LL)",
+        "path": [
+          "Linked-List",
+          "Fundamentals (Doubly LL)",
+          "Introduction to Doubly LL"
+        ],
+        "sourceCategory": "fundamentals-doubly-ll"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: covers doubly linked-list structure and demonstrates basic operations.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1232",
+    "title": "Deletion in Doubly LL",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Linked-List",
+        "topic": "Fundamentals (Doubly LL)",
+        "path": [
+          "Linked-List",
+          "Fundamentals (Doubly LL)",
+          "Deletion in Doubly LL"
+        ],
+        "sourceCategory": "fundamentals-doubly-ll"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: operation-focused deletion resource; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1233",
+    "title": "Insertion in DLL",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Linked-List",
+        "topic": "Fundamentals (Doubly LL)",
+        "path": [
+          "Linked-List",
+          "Fundamentals (Doubly LL)",
+          "Insertion in DLL"
+        ],
+        "sourceCategory": "fundamentals-doubly-ll"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: operation-focused insertion resource; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1155",
+    "title": "Introduction to Bits and Tricks",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/bit-basics-and-operators",
+    "videoUrl": "https://youtu.be/qQd-ViW7bfk?si=QtdNaRhHmZb08Mr8",
+    "placements": [
+      {
+        "module": "Bit Manipulation",
+        "topic": "Theory",
+        "path": [
+          "Bit Manipulation",
+          "Theory",
+          "Introduction to Bits and Tricks"
+        ],
+        "sourceCategory": "theory"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains bit fundamentals, operators, and their purpose.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1254",
+    "title": "Theory",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/template-mental-model",
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Sliding Window / 2 Pointer",
+        "topic": "Pattern and Template",
+        "path": [
+          "Sliding Window / 2 Pointer",
+          "Pattern and Template",
+          "Theory"
+        ],
+        "sourceCategory": "pattern-and-template"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: teaches a reusable sliding-window workflow and its application.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1256",
+    "title": "Implementation using different DS",
+    "articleUrl": null,
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Stack / Queues",
+        "topic": "Implementation",
+        "path": [
+          "Stack / Queues",
+          "Implementation",
+          "Implementation using different DS"
+        ],
+        "sourceCategory": "implementation"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Provisional: classified from the implementation-focused title and Stack/Queues placement; lesson content unavailable.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "coming_soon"
+  },
+  {
+    "stableId": "tuf-dsa-1154",
+    "title": "Introduction",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-data-structure",
+    "videoUrl": "https://youtu.be/_ANrF3FJm7I",
+    "placements": [
+      {
+        "module": "Binary Trees",
+        "topic": "Theory/Traversals",
+        "path": [
+          "Binary Trees",
+          "Theory/Traversals",
+          "Introduction"
+        ],
+        "sourceCategory": "theory-and-traversals"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains binary-tree structure, nodes, and relationships.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1153",
+    "title": "Introduction to BST",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-tree",
+    "videoUrl": "https://youtu.be/p7-9UvDQZ3w",
+    "placements": [
+      {
+        "module": "Binary Search Trees",
+        "topic": "Theory and Basics",
+        "path": [
+          "Binary Search Trees",
+          "Theory and Basics",
+          "Introduction to BST"
+        ],
+        "sourceCategory": "theory-and-basics"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: teaches BST search, insertion, and deletion through examples.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1223",
+    "title": "Heaps (Theory Video)",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/introduction-to-heap",
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Heaps",
+        "topic": "Theory and Implementation",
+        "path": [
+          "Heaps",
+          "Theory and Implementation",
+          "Heaps (Theory Video)"
+        ],
+        "sourceCategory": "theory-and-implementation"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains heap properties, representation, heapify, and build heap.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1222",
+    "title": "Introduction to Graph",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/introduction-to-graph",
+    "videoUrl": "https://youtu.be/3oI-34aPMWM",
+    "placements": [
+      {
+        "module": "Graphs",
+        "topic": "Theory and traversals",
+        "path": [
+          "Graphs",
+          "Theory and traversals",
+          "Introduction to Graph"
+        ],
+        "sourceCategory": "theory-and-traversals"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains graph structure, terminology, types, and applications.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1221",
+    "title": "MST theory",
+    "articleUrl": null,
+    "videoUrl": "https://youtu.be/ZSPjZuZWCME",
+    "placements": [
+      {
+        "module": "Graphs",
+        "topic": "Minimum Spanning Tree",
+        "path": [
+          "Graphs",
+          "Minimum Spanning Tree",
+          "MST theory"
+        ],
+        "sourceCategory": "minimum-spanning-tree"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Provisional: classified from the Theory title and Minimum Spanning Tree placement; video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "user_verified"
+  },
+  {
+    "stableId": "tuf-dsa-1195",
+    "title": "Introduction to DP",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/dynamic-programming-memoization-tabulation",
+    "videoUrl": "https://youtu.be/tyB0ztf0DNY",
+    "placements": [
+      {
+        "module": "Dynamic Programming",
+        "topic": "Introduction",
+        "path": [
+          "Dynamic Programming",
+          "Introduction",
+          "Introduction to DP"
+        ],
+        "sourceCategory": "introduction"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Article reviewed: explains dynamic-programming states, transitions, base cases, memoization, and tabulation.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  },
+  {
+    "stableId": "tuf-dsa-2390",
+    "title": "Bit PreRequisites for TRIE Problems",
+    "articleUrl": null,
+    "videoUrl": "https://youtu.be/5iyuU4hQFrw",
+    "placements": [
+      {
+        "module": "Tries",
+        "topic": "Theory",
+        "path": [
+          "Tries",
+          "Theory",
+          "Bit PreRequisites for TRIE Problems"
+        ],
+        "sourceCategory": "triessubc"
+      }
+    ],
+    "classification": "Concept",
+    "rationale": "Provisional: classified from the title and Trie prerequisites placement; video content was not verified.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "user_verified"
+  },
+  {
+    "stableId": "tuf-dsa-2399",
+    "title": "Hashing In Strings | Theory",
+    "articleUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/string-hashing-rolling-hash",
+    "videoUrl": null,
+    "placements": [
+      {
+        "module": "Strings (Advanced Algo)",
+        "topic": "Advanced Problems (Less asked)",
+        "path": [
+          "Strings (Advanced Algo)",
+          "Advanced Problems (Less asked)",
+          "Hashing In Strings | Theory"
+        ],
+        "sourceCategory": "advanced-problems-(less-asked)"
+      }
+    ],
+    "classification": "Tutorial",
+    "rationale": "Article reviewed: teaches rolling-hash implementation through prefix hashes and worked applications.",
+    "reviewStatus": "approved",
+    "evidenceStatus": "content_verified"
+  }
+]
